@@ -3,11 +3,7 @@ import java.io.InputStream;
 import java.io.Serializable;
 import java.util.Scanner;
 
-/**
- * @author ERROUISSI
- * @version 1.0
- * @created 25-déc.-2016 21:50:09
- */
+
 public class Voiture implements Serializable {
 
 	/**
