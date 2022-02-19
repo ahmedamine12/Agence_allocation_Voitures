@@ -14,11 +14,7 @@ import java.util.Map.Entry;
 import java.util.Objects;
 import java.util.TreeMap;
 
-/**
- * @author ERROUISSI
- * @version 1.0
- * @created 25-déc.-2016 22:19:13
- */
+
 public class Agence implements Serializable {
 
 	/**
