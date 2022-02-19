@@ -17,12 +17,7 @@ import java.util.TreeMap;
 
 public class Agence implements Serializable {
 
-	/**
-	 * 
-	 */
-	/**
-	 * 
-	 */
+	
 	private List<Voiture> Liste_Voiture;
 	private List<Client> Liste_Client;
 	private HashMap<Client, Voiture> Gestion_Location;
