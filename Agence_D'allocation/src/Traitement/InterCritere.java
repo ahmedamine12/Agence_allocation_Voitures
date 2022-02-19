@@ -3,11 +3,7 @@ import java.io.Serializable;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-/**
- * @author ERROUISSI
- * @version 1.0
- * @created 25-déc.-2016 22:54:22
- */
+
 public class InterCritere implements Serializable,Critere{
 
 	/**
