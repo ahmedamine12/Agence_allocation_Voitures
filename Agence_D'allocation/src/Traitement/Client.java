@@ -2,11 +2,7 @@ package Traitement;
 import java.io.Serializable;
 import java.util.Scanner;
 
-/**
- * @author ERROUISSI
- * @version 1.0
- * @created 25-déc.-2016 23:27:51
- */
+
 public class Client implements Comparable , Serializable {
 
 	private String Nom;
